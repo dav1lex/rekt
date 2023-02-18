@@ -21,7 +21,9 @@ export class State3 extends React.Component {
 
     render() {
         return (
-            <CounterDisplay thecount={this.state.count}/>
+            <>
+            And<CounterDisplay thecount={this.state.count}/>
+            </>
         );
     }
 }

@@ -21,7 +21,7 @@ export class State1 extends React.Component {
     render() {
         return (
             <h1>
-                test {this.state.count}
+                I am excercise 1 ==> {this.state.count}
             </h1>
         );
     }

@@ -6,7 +6,7 @@ export class App extends React.Component {
     render() {
         return (
             <>
-                {/*<State1/>*/}
+                <State1/>
                 <State3 timeout={1000} startval={2} increment={1}/>
             </>
         );
