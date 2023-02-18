@@ -6,16 +6,14 @@ export class State1 extends React.Component {
         count: 0  //
     }
 
-
-
     constructor(props) {
         super(props);
 
-        setInterval(()=>{
-            this.setState((state)=>{
-                return {count: state.count +1}
+        setInterval(() => {
+            this.setState((state) => {
+                return {count: state.count + 1}
             })
-        },1000)
+        }, 1000)
     }
 
     render() {
