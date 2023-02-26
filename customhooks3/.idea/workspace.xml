@@ -2,60 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="498399a6-a41f-42e3-91ee-919c1f6badd3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../JSX/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSX/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSX/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSX/.idea/reactplygrnd.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JSX/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../components/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../components/.idea/components.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../components/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../components/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../components/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../composition/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../composition/.idea/composition.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../composition/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../composition/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../composition/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../contextt/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../contextt/.idea/context.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../contextt/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../contextt/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../contextt/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../customhooks/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../customhooks/.idea/customhooks.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../customhooks/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../customhooks/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../customhooks/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../customhooks2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../customhooks2/.idea/customhooks2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../customhooks2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../customhooks2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/customhooks3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eventler/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eventler/.idea/eventler.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eventler/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eventler/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../eventler/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../forms/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../forms/.idea/forms.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../forms/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../forms/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../forms/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../functioncomponentss/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../functioncomponentss/.idea/functioncomponents.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../functioncomponentss/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../functioncomponentss/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../functioncomponentss/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lists/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lists/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lists/.idea/lists.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lists/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../lists/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,19 +30,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Desktop/REACT/customhooks3/src&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/admin/Desktop/REACT/contextt",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\Desktop\REACT\customhooks3\src" />
@@ -125,7 +72,11 @@
       <option name="presentableId" value="Default" />
       <updated>1677283863814</updated>
       <workItem from="1677283864985" duration="1894000" />
-      <workItem from="1677348732624" duration="529000" />
+      <workItem from="1677348732624" duration="1210000" />
+      <workItem from="1677359163836" duration="43000" />
+      <workItem from="1677359568470" duration="82000" />
+      <workItem from="1677359952054" duration="1505000" />
+      <workItem from="1677418770874" duration="31000" />
     </task>
     <servers />
   </component>
