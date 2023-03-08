@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="498399a6-a41f-42e3-91ee-919c1f6badd3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../forms/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../forms/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../props/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../props/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../usestate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../usestate/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,19 +33,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/admin/Desktop/REACT/contextt",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Desktop/REACT/contextt&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\Desktop\REACT\customhooks3\src" />
@@ -77,6 +80,8 @@
       <workItem from="1677359568470" duration="82000" />
       <workItem from="1677359952054" duration="1505000" />
       <workItem from="1677418770874" duration="31000" />
+      <workItem from="1678133248427" duration="18000" />
+      <workItem from="1678281657600" duration="109000" />
     </task>
     <servers />
   </component>
